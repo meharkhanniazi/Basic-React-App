@@ -1,6 +1,5 @@
 import React from 'react';
 import './Hello.css';
-import App from './App.js';
 
 
 function Hello({firstName})
